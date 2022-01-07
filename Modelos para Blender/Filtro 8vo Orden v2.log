@@ -1,0 +1,54 @@
+OBJ translation to Solid Edge
+Date: Thursday,May 21,2020 02:23PM
+Source File:C:\Users\52555\OneDrive\Documentos\UNAM\Octavo Semestre\SEL\Proyecto Final\Modelos para Blender\Filtro 8vo Orden v2.obj
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+Operating System: Windows 10
+Installed Memory: 15.81 GB
+
+Software Information:
+Parasolid Version: 31.1.255
+PSBodyshop Version: 31.1.110
+OBJ Adapter Version: 5.0.79
+Solid Edge Version: 220.00.00.104 x64
+
+OBJ Import options 
+Split Groups:Off
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Error!Could not find material library d9b116c9-ebdc-4331-ac67-b318d019812e.zip.mtl
+Error!Could not find material "Aluminum_-_Polished" But saw 1 references.
+Error!Could not find material "Opaque(110,125,161)" But saw 1 references.
+Error!Could not find material "Opaque(120,110,70)" But saw 1 references.
+Error!Could not find material "Opaque(161,150,130)" But saw 11 references.
+Error!Could not find material "Opaque(178,0,0)" But saw 5 references.
+Error!Could not find material "Opaque(190,188,186)" But saw 8 references.
+Error!Could not find material "Opaque(191,191,191)" But saw 29 references.
+Error!Could not find material "Opaque(2,61,210)" But saw 1 references.
+Error!Could not find material "Opaque(202,209,238)" But saw 2 references.
+Error!Could not find material "Opaque(211,214,211)" But saw 1 references.
+Error!Could not find material "Opaque(215,208,192)" But saw 1 references.
+Error!Could not find material "Opaque(217,94,28)" But saw 15 references.
+Error!Could not find material "Opaque(222,181,127)" But saw 21 references.
+Error!Could not find material "Opaque(228,180,12)" But saw 12 references.
+Error!Could not find material "Opaque(229,229,229)" But saw 1 references.
+Error!Could not find material "Opaque(242,194,46)" But saw 7 references.
+Error!Could not find material "Opaque(244,244,244)" But saw 2 references.
+Error!Could not find material "Opaque(245,245,245)" But saw 5 references.
+Error!Could not find material "Opaque(247,224,153)" But saw 1 references.
+Error!Could not find material "Opaque(250,235,215)" But saw 50 references.
+Error!Could not find material "Opaque(255,255,255)" But saw 28 references.
+Error!Could not find material "Opaque(63,63,63)" But saw 52 references.
+Error!Could not find material "Opaque(64,64,64)" But saw 1 references.
+Error!Could not find material "Opaque(73,169,84)" But saw 1 references.
+Error!Could not find material "Opaque(76,76,76)" But saw 6 references.
+Error!Could not find material "Plastic_-_Matte_(Black)" But saw 1 references.
+Translation process completed
+Total time required to translate and post process:00 : 00 : 38
